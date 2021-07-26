@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone ✌, I'm Otavio</h1>
-<h3 align="center">Brazilian Software Developer focusing in RPA nowadays 💻🤖</h3>
+<h3 align="center">Brazilian Software Developer, nowadays focusing in RPA 💻🤖</h3>
 <h3 align="center">Research Student at FIAP 📘</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviosc&label=Profile%20views&color=0e75b6&style=flat" alt="otaviosc" /> </p>
