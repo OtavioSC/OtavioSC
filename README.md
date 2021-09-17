@@ -15,6 +15,6 @@
 
 <h3 align="left">Read my Opinions:</h3>
 <p align="left">
-<a href="https://hashnode.com/@CrmOtavio" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="hashnode" height="40" width="40"/></a>
+<a href="carmo.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="hashnode" height="40" width="40"/></a>
   
 ![Snake animation](https://github.com/OtavioSC/OtavioSC/blob/output/github-contribution-grid-snake.svg)
