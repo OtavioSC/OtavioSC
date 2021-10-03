@@ -2,6 +2,8 @@
 <h3 align="center">Brazilian Software Developer, nowadays focusing in RPA 💻🤖</h3>
 <h3 align="center">Research Student at FIAP 📘</h3>
 
+<img alt="black-hole" src="https://media0.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" align="right"> </img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviosc&label=Profile%20views&color=0e75b6&style=flat" alt="otaviosc" /> </p>
 
 <h3 align="left">Connect with me:</h3>
