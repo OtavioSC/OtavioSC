@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone ✌, I'm Otavio</h1>
-<h3 align="center">Brazilian Software Developer, nowadays focusing in RPA 💻🤖</h3>
+<h3 align="center">Brazilian Software Developer, nowadays focusing in Salesforce Marketing Cloud 💻🤖</h3>
 <h3 align="center">Research Student at FIAP 📘</h3>
 
 <img alt="black-hole" src="https://media0.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" align="right"> </img>
