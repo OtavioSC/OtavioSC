@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone ✌</h1>
-<h3 align="center">Just a Brazilian Software Developer nowadays focusing in Salesforce Marketing Cloud 💻🤖</h3>
+<h3 align="center">Just a Brazilian Software Developer from Sampa</h3>
 
 <h3 align="center">Social Medias</h3>
 <p align="center">
