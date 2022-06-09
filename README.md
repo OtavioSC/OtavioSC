@@ -8,6 +8,7 @@ I'm Otavio, just a Brazilian Software Developer
 
 ## 🌱 What am I currently learning?
 
+- GraphQL
 - Rust
 - Neural network and Deep Learning
 
