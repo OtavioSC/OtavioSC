@@ -6,6 +6,10 @@ I'm Otavio, just a Brazilian Software Developer
 - 📫 How to reach me: otso#9552(discord)
 - ⚡ Articles: @CrmOtavio(Hashnode)
 
+## Last Song
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ckck4hnr6z1ou5hhleq0qpi74&count=1)
+
 ## 🌱 What am I currently learning?
 
 - GraphQL
@@ -49,7 +53,5 @@ I'm Otavio, just a Brazilian Software Developer
 ## 👩‍💻Devops
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ckck4hnr6z1ou5hhleq0qpi74)
 
 
