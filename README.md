@@ -52,6 +52,4 @@ I'm Otavio, just a Brazilian Software Developer
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ckck4hnr6z1ou5hhleq0qpi74)
 
-![Snake animation](https://github.com/OtavioSC/OtavioSC/blob/output/github-contribution-grid-snake.svg)
-
 
