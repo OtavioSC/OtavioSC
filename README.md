@@ -6,7 +6,7 @@ I'm Otavio, just a Brazilian Software Developer
 - 📫 How to reach me: otso#9552(discord)
 - ⚡ Articles: @CrmOtavio(Hashnode)
 
-## Last Song
+## 🎶 Last Song
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ckck4hnr6z1ou5hhleq0qpi74&count=1)
 
