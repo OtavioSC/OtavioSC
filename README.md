@@ -12,9 +12,9 @@ I'm Otavio, just a Brazilian Software Developer
 
 ## 🌱 What am I currently learning?
 
+- Typescript
 - GraphQL
 - Rust
-- Typescript
 
 ## ⚡ My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioSC&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/OtavioSC/github-readme-stats)
