@@ -25,7 +25,6 @@ I'm Otavio, just a Brazilian Software Developer
 ## 📚 Languages
 [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-323330?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
-[![Rust](https://img.shields.io/badge/RUST-000081?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/PYTHON-f7d367?style=for-the-badge&logo=python)](https://www.python.org/)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
