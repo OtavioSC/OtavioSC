@@ -16,10 +16,11 @@ I'm Otavio, just a Brazilian Software Developer
 - GraphQL
 - Rust
 
+<!--
 ## ⚡ My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioSC&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/OtavioSC/github-readme-stats)
 [![stats](https://github-readme-stats.vercel.app/api?username=OtavioSC&show_icons=true&locale=en&include_all_commits=true&theme=synthwave)](https://github.com/OtavioSC/github-readme-stats)
-
+  -->
 # 🚀 My Skills
 
 ## 📚 Languages
