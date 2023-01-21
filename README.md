@@ -6,8 +6,6 @@ I'm Otavio, just a Brazilian Software Developer
 - 📫 How to reach me: otso#9552(discord)
 - ⚡ Articles: @CrmOtavio(Hashnode)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviosc&show_icons=true&theme=radical)
-
 ## 🎶 Last Song
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ckck4hnr6z1ou5hhleq0qpi74&count=1)
