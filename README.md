@@ -4,10 +4,8 @@
 </div>
 
 [![Blog](https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square)](https://www.blog.ocarmo.dev)
+<div><img alt="OtavioSC GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=otaviosc&count_private=true&show_icons=true&theme=slateorange" width="30%" /></div>
 
-<div align="center">
-    <img alt="OtavioSC GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=otaviosc&count_private=true&show_icons=true&theme=slateorange" width="20%" />
-</div>
 
 ### 🌱 Currently learning
 
