@@ -1,26 +1,17 @@
 # Hello Everyone ✌
 
-I'm Otavio, just a Brazilian Software Developer
+I'm Otavio, a Brazilian Software Developer who tries to learn something every single day.
 
 - 🏫 Technical and Technology Degree's
 - 📫 How to reach me: otso#9552(discord)
 - ⚡ Articles: @CrmOtavio(Hashnode)
 
-## 🎶 Last Song
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ckck4hnr6z1ou5hhleq0qpi74&count=1)
-
-## 🌱 What am I currently learning?
+## 🌱 Currently learning
 
 - Typescript
-- GraphQL
-- Rust
+- Algorithms
+- Data Structures
 
-<!--
-## ⚡ My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioSC&layout=compact&theme=synthwave&langs_count=10&count_private=true)](https://github.com/OtavioSC/github-readme-stats)
-[![stats](https://github-readme-stats.vercel.app/api?username=OtavioSC&show_icons=true&locale=en&include_all_commits=true&theme=synthwave)](https://github.com/OtavioSC/github-readme-stats)
-  -->
 # 🚀 My Skills
 
 ## 📚 Languages
