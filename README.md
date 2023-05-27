@@ -10,8 +10,8 @@
 ### 🌱 Currently learning
 
 - Lisp
-- Algorithms
-- Data Structures
+- Algorithms & Data Structures
+- Elixir
 
 ### 🚀 Here you'll find all this technologies
 
