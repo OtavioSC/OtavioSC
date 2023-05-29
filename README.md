@@ -1,6 +1,6 @@
 <div align="center"> 
   <h3> Hello, i'm Otavio 👋 </h3>
-  <p> Brazilian Software Developer who tries to learn something every single day. </p>
+  <p> Brazilian Software Developer who tries to learn something new every single day. </p>
 </div>
 
 [![Blog](https://img.shields.io/badge/Website-blog.ocarmo.dev-blue?style=flat-square)](https://blog.ocarmo.dev)
