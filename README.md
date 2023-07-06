@@ -4,8 +4,8 @@
     <p> I'm always creating stuffs here and writing about tech in my blog </p>
   </div>
 
-  [![Blog](https://img.shields.io/badge/Website-blog.ocarmo.dev-blue?style=flat-square)](https://blog.ocarmo.dev)
-  [![Website](https://img.shields.io/badge/Website-blog.ocarmo.dev-blue?style=flat-square)](https://ocarmo.dev)
+  [![Blog](https://img.shields.io/badge/Blog-blog.ocarmo.dev-blue?style=flat-square)](https://blog.ocarmo.dev)
+  [![Website](https://img.shields.io/badge/Website-ocarmo.dev-blue?style=flat-square)](https://ocarmo.dev)
 
 
   ### 🌱 Currently learning
