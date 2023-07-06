@@ -5,6 +5,7 @@
   </div>
 
   [![Blog](https://img.shields.io/badge/Website-blog.ocarmo.dev-blue?style=flat-square)](https://blog.ocarmo.dev)
+  [![Website](https://img.shields.io/badge/Website-blog.ocarmo.dev-blue?style=flat-square)](https://ocarmo.dev)
 
 
   ### 🌱 Currently learning
