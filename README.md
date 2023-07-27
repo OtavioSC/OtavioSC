@@ -1,20 +1,18 @@
 <samp>
   <div align="center"> 
-    <h3> Hello, i'm Otavio 👋 </h3>
-    <p> I'm always creating stuffs here and writing about tech in my blog </p>
+    <h3> Hello, I'm Otavio 👋 </h3>
+    <p>Software Engineer living in Brazil</p>
   </div>
 
   [![Blog](https://img.shields.io/badge/Blog-blog.ocarmo.dev-blue?style=flat-square)](https://blog.ocarmo.dev)
   [![Website](https://img.shields.io/badge/Website-ocarmo.dev-blue?style=flat-square)](https://ocarmo.dev)
 
-
   ### 🌱 Currently learning
+  
+  - Software Architecture
+  - Golang
 
-  - Lisp
-  - Algorithms & Data Structures
-  - Elixir
-
-  ### 🚀 Here you'll find all this technologies
+  ### 🚀 Here you'll find all these technologies
 
   #### 📚 Languages
   [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -33,7 +31,7 @@
   ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-  #### 🗃️ Databases and ORM's
+  #### 🗃️ Databases and ORMs
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
